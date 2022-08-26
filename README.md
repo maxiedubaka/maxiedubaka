@@ -1,4 +1,4 @@
-› Maxiedu - Maxiedubaka
+› MaxieDev
 
 › Competent Python Dev
 
